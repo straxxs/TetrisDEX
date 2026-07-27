@@ -1,0 +1,17 @@
+0;PRUEBA
+0;PRUEBA
+0;PRUEBA
+0;PRUEBA
+0;PRUEBA
+0;hola
+0;None
+0;hola
+6000;thiago
+11000;pablito
+5000;esteban
+5000;Bianco
+9000;Lucas H.
+5000;Matilde
+7000;Matilde
+10000;Matilde
+7000;Agus
